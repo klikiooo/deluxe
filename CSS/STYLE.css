@@ -1,0 +1,30 @@
+P{
+    font-size: 20px;
+    font-weight: bolder;
+}
+img{
+    width: 400px;
+    height: 200px;
+    margin-left: 250px;
+
+}
+div{
+    background-color: #f805f3;
+    padding-left: 30px;
+    margin-right: 50px;
+}
+.division{
+    background-color: aqua;
+}
+.division2{
+    background-color: black;
+}
+.division3{
+    background-color: chocolate;
+}
+#main{display: flex;
+}
+.heading{
+    color: azure;
+
+}

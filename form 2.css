@@ -1,0 +1,12 @@
+form {
+    background-color: #09f6f6;
+    width: 60%
+    height: 400px;
+    margin-left: 200px;
+    padding-left: 30px;
+
+
+}
+div{
+    display: flex;
+}

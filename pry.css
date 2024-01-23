@@ -1,0 +1,25 @@
+form{
+    background-color: tomato;
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+body{
+    background-color: crimson;
+}
+button{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    width:450px;
+    border-radius: 10px;
+}
+label{
+    width: 85px;
+    display: inline-block;
+}
+.b
+
+}
